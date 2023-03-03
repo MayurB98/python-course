@@ -57,7 +57,7 @@ print(l1!=l2)
 print(l1!=l4)
 print("-----")
 
-print(l1 is l2)         #checks memory address
+print(l1 is l2)         #checks memory address in python if same values then point to same address
 print(l1 is l3)
 print(l1 is not l2)
 print(l1 is not l3)
